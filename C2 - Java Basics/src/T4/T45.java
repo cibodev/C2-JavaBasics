@@ -23,6 +23,7 @@ public class T45 {
 		System.out.println("\nA="+a+"\nB="+b+"\nC="+c+"\nD="+d);
 		d=b;
 		System.out.println("\nA="+a+"\nB="+b+"\nC="+c+"\nD="+d);
+		//comentario
 	}
 
 }
