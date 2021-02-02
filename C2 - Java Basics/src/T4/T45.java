@@ -4,7 +4,7 @@
 package T4;
 
 /**
- * @author User
+ * @author Christian Rivas
  *
  */
 public class T45 {
@@ -20,8 +20,6 @@ public class T45 {
 		a=d;
 		d=b;
 		System.out.println("Valores finales:\nA="+a+"\nB="+b+"\nC="+c+"\nD="+d);
-		
-
 	}
 
 }

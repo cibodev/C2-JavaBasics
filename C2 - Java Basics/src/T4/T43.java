@@ -4,7 +4,7 @@ package T4;
  */
 
 /**
- * @author User
+ * @author Christian Rivas
  *
  */
 public class T43 {

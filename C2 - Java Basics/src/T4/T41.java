@@ -4,7 +4,7 @@ package T4;
  */
 
 /**
- * @author User
+ * @author Christian Rivas
  *
  */
 public class T41 {
@@ -22,7 +22,6 @@ public class T41 {
 		System.out.println(n1+" x "+n2+" = "+(n1*n2));
 		System.out.println(n1+" / "+n2+" = "+(n1/n2));
 		System.out.println(n1+" % "+n2+" = "+(n1%n2));
-
 	}
 
 }
