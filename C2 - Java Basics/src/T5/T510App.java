@@ -27,9 +27,10 @@ public class T510App {
 		int v=0;
 		//creamos un bucle con for acabe cuando i sea igual a nv o numero de ventas
 		for (int i = 0; i < nv; i++) {
-			//le damos valor a v que hemos iniciado antes y este valor es el que le da el usuario
+			//le damos valor a v que hemos iniciado antes y este valor es el que le da el usuario y le sumamos el valor anterior de v
 			v = Integer.parseInt(JOptionPane.showInputDialog("Introduce el valor de la venta"))+v;
 		}
+		//ahora el valor de la variable v sera la suma de todos los numeros introducidos
 		JOptionPane.showMessageDialog(null, "El total del valor de las ventas asciende a "+v);
 	}
 
