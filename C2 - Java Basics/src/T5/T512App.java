@@ -3,8 +3,6 @@
  */
 package T5;
 
-import java.util.Iterator;
-
 import javax.swing.JOptionPane;
 
 /**
