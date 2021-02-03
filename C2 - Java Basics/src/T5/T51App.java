@@ -6,7 +6,7 @@ package T5;
 import javax.swing.JOptionPane;
 
 /**
- * @author User
+ * @author Christian Rivas
  *
  */
 public class T51App {

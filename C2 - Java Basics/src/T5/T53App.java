@@ -9,13 +9,13 @@ import javax.swing.JOptionPane;
  * @author Christian Rivas
  *
  */
-public class T52App {
+public class T53App {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String name = "Christian";
+		String name = JOptionPane.showInputDialog("Introduce tu nombre");
 		JOptionPane.showMessageDialog(null, "Bienvenido "+name);
 	}
 
