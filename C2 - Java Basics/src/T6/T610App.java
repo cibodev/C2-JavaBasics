@@ -42,7 +42,7 @@ public class T610App {
 		
 		int i=0;
 		while(i<ary.length) {
-			int rp=rand.nextInt(rpmax+rpmin)+rpmin;
+			int rp=rand.nextInt(rpmax)+rpmin;
 			boolean p=bolPrimo(rp);
 			if(p) {
 				ary[i]=rp;
