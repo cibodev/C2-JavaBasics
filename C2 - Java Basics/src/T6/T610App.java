@@ -21,8 +21,8 @@ public class T610App {
 	/*en este ejercicio he empezado a separar los metodos entre principales y secundarios para hacerme capas de 
 	 * abstraccion extras porque me estaba friendo la cabeza sino.
 	 * Otro apunte importante es que porque lo he hecho igual de eficiente que una tostadora tarda bastante en
-	 * acabar de calcular los numeros incluso en un rango del 1-10 en un array de 1. Calcular un array de 100 le
-	 * costo unos 7 minutos facil con 16 de ram que tengo*/
+	 * acabar de calcular los numeros incluso en un rango del 1-10 en un array de 10. Calcular un array de 100 le
+	 * costo unos 7 minutos facil con 16 de ram que tengo. Tarda mas cuantos mas numeros tiene el array*/
 	public static void main(String[] args) {
 		int arylgth=Integer.parseInt(JOptionPane.showInputDialog("Introduce el tamaño del array"));
 		int[] aryrp= new int[arylgth];
