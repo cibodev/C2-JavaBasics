@@ -3,8 +3,6 @@
  */
 package T6;
 
-import java.lang.reflect.Array;
-
 import javax.swing.JOptionPane;
 
 /**
