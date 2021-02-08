@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  * 8 feb. 2021
  *
  */
-public class T701 {
+public class T701App {
 
 	/**
 	 * @param args
